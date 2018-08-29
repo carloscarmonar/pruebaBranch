@@ -12,4 +12,10 @@ public class ClaseMaster {
 	public void metodoProgramadorUno() {
 		
 	}
+	/**
+	 * Método del programador 2
+	 */
+	public void metodoProgramadorDos() {
+		
+	}
 }
