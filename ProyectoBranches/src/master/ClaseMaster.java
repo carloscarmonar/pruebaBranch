@@ -20,4 +20,9 @@ public class ClaseMaster {
 	}
 	
 	//Casos extremos
+	
+	
+	private void adicion() {
+		
+	}
 }
