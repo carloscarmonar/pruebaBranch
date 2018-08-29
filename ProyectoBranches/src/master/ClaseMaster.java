@@ -22,6 +22,11 @@ public class ClaseMaster {
 	//Casos extremos
 	
 	
+	protected void dividir() {
+		
+	}
+	
+	
 	private void adicion() {
 		
 	}
