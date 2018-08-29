@@ -6,5 +6,10 @@ package branchUno;
  *
  */
 public class ClaseUno {
-
+	/**
+	 * Le creo un main a eso
+	 */
+	public static void main(String[] args) {
+		
+	}
 }
