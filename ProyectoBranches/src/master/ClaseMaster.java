@@ -18,4 +18,6 @@ public class ClaseMaster {
 	public void metodoProgramadorDos() {
 		
 	}
+	
+	//Casos extremos
 }
