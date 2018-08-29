@@ -6,5 +6,7 @@ package branchDos;
  *
  */
 public class ClaseDos {
-
+	public static void main(String[] args) {
+		
+	}
 }
