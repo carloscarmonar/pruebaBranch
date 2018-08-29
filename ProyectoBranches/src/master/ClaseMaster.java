@@ -12,4 +12,6 @@ public class ClaseMaster {
 	public void metodoProgramadorUno() {
 		
 	}
+	
+	//Casos extremos
 }
